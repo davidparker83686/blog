@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://davidparker83686.github.io/blogsitemap.xml
